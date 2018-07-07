@@ -7,3 +7,5 @@ Referans: https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Cla
 **Konvolüsyonel Sinir Ağı'nı eğitirken Google Colab platformunu kullandım. Bu güzel platformu tanıma vesile olan Fuat Hocam ve DeepLearningTürkiye grubuna çok teşekkür ederim.**
 
 Google Colab Kullanım Linki: https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e
+
+Deep Learning Türkiye Grubu: https://medium.com/deep-learning-turkiye
