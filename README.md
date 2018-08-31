@@ -1,5 +1,5 @@
 # Tensorflow-CNN-with-FashionMNIST-Dataset
-Tensorflow kütüphanesi kullanarak Konvolüsyonel Sinir Ağı(Convolutional Neural Network) yapısının kodlanmasını ve bu yapının FashionMNIST veri seti ile eğitilmesi.
+Tensorflow kütüphanesi kullanarak Konvolüsyonel Sinir Ağı(Convolutional Neural Network) yapısının kodlanması ve bu yapının FashionMNIST veri seti ile eğitilmesi.
 
 **Bu çalışmayı yaparken faydalandığım kaynak:** @MuhammedBuyukkinaci'ya Teşekkür Ederim.
 Referans: https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s
